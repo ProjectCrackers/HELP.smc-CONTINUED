@@ -1,0 +1,14 @@
+# Force LF line endings (Unix-style) for all text files
+*.js    text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.text  text eol=lf
+*.svg   text eol=lf
+
+# Prevent Git from modifying binary files
+*.png   -text
+*.jpg   -text
+*.jpeg  -text
+*.mp3   -text
+*.wav   -text
