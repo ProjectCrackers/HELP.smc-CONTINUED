@@ -6,8 +6,9 @@ This is a fan-made project inspired by the Mario and Sonic franchises. It is not
 
 This game is distributed for free and is intended as a tribute to the original works. No commercial use is permitted.
 
-⚠️ This is a creepypasta-style game and may contain themes or storytelling elements that are unsettling or intense. While it is compatible with Scratch 3.0, this game is NOT intended for children.
-The only reason I'm specifying for once is due to the unfair assumptions that a game programmed with the Scratch editor is intended for little kids.
+⚠️ This is a creepypasta-style game and may contain themes or storytelling elements that are unsettling or intense to some. While it is compatible with Scratch 3.0, this game is NOT intended for children under 13.
+
+The only reason I'm specifying for once is due to the popular assumptions that a game programmed with the Scratch editor is intended for kids.
 
 ## ASSET ATTRIBUTION
 
